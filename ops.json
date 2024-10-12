@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "9c690a35-c476-32f5-8eb9-52ff7e0428df",
+    "name": "hohuc",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "59412f84-00f1-304d-8e91-f1c04b3b386c",
+    "name": "off",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cfc481b8-c43b-38a4-8253-f260409e1e3c",
+    "name": "hohohub",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "21ae51ae-6360-3bf9-98bd-5aadf87e4262",
+    "name": "none",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
